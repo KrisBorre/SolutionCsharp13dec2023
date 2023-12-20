@@ -1,6 +1,5 @@
-using OxyPlot.Series;
 using OxyPlot;
-using System;
+using OxyPlot.Series;
 
 namespace WinFormsConsumptiePrijsIndex20dec2023
 {
