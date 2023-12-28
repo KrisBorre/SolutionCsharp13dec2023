@@ -21,9 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryEllipticIntegrals20d
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsEllipticIntegrals20dec2023", "WinFormsEllipticIntegrals20dec2023\WinFormsEllipticIntegrals20dec2023.csproj", "{BD9396D9-7D18-43BD-A8F3-7C80BA86B3C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEllipticIntegralK_21dec2023", "ConsoleEllipticIntegralK_21dec2023\ConsoleEllipticIntegralK_21dec2023.csproj", "{C03A9AE5-412C-4C98-9DAB-EEEA2A7A24D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleEllipticIntegralK_21dec2023", "ConsoleEllipticIntegralK_21dec2023\ConsoleEllipticIntegralK_21dec2023.csproj", "{C03A9AE5-412C-4C98-9DAB-EEEA2A7A24D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEllipticIntegralE_21dec2023", "ConsoleEllipticIntegralE_21dec2023\ConsoleEllipticIntegralE_21dec2023.csproj", "{D3B0588F-5488-425B-BA41-914BF2C8C086}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleEllipticIntegralE_21dec2023", "ConsoleEllipticIntegralE_21dec2023\ConsoleEllipticIntegralE_21dec2023.csproj", "{D3B0588F-5488-425B-BA41-914BF2C8C086}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleMathNetNumerics28dec2023", "ConsoleMathNetNumerics28dec2023\ConsoleMathNetNumerics28dec2023.csproj", "{F6F914FA-3F2B-4047-92D7-7FC72F0E1921}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleStelselOplosser28dec2023", "ConsoleStelselOplosser28dec2023\ConsoleStelselOplosser28dec2023.csproj", "{1E35B385-A963-46EF-AE05-A2610115B0CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{D3B0588F-5488-425B-BA41-914BF2C8C086}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3B0588F-5488-425B-BA41-914BF2C8C086}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3B0588F-5488-425B-BA41-914BF2C8C086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F914FA-3F2B-4047-92D7-7FC72F0E1921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F914FA-3F2B-4047-92D7-7FC72F0E1921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F914FA-3F2B-4047-92D7-7FC72F0E1921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F914FA-3F2B-4047-92D7-7FC72F0E1921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E35B385-A963-46EF-AE05-A2610115B0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E35B385-A963-46EF-AE05-A2610115B0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E35B385-A963-46EF-AE05-A2610115B0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E35B385-A963-46EF-AE05-A2610115B0CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
