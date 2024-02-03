@@ -7,11 +7,13 @@ internal class Program
         Console.WriteLine("Hello Bessel functions!");
 
         BesselFunctionJ0_13dec2023 j0 = new BesselFunctionJ0_13dec2023();
+        double x;
 
-        Console.WriteLine("x        j0(x)");
+        Console.WriteLine($"{nameof(x)}        {nameof(j0)}({nameof(x)})");
+        //Console.WriteLine("x        j0(x)");
         for (int i = -5; i <= 14; i++)
         {
-            double x = (double)i;
+            x = (double)i;
             Console.WriteLine($"{i}      {j0.Function(x)}");
         }
 

@@ -10,7 +10,7 @@
 
             #region problem1
             {
-                Console.WriteLine("Probeem 1");
+                Console.WriteLine("Probleem 1");
 
                 int n = 3;
                 double[,] a = new double[n, n];
@@ -72,7 +72,7 @@
                 Console.WriteLine("Check vector solutions!");
                 CheckSolutions(a, b, x);
 
-                /*Probeem 1
+                /*Probleem 1
                 matrix a :
                 1            0            0
                 0            2            0
@@ -108,7 +108,7 @@
 
             #region problem2
             {
-                Console.WriteLine("Probeem 2");
+                Console.WriteLine("Probleem 2");
 
                 int n = 3;
 
@@ -168,7 +168,7 @@
                 Console.WriteLine("Check vector solutions!");
                 CheckSolutions(a, b, x);
 
-                /*Probeem 2
+                /*Probleem 2
                 matrix a :
                 1            2            3
                 1            -2            3
@@ -204,7 +204,7 @@
 
             #region problem3
             {
-                Console.WriteLine("Probeem 3");
+                Console.WriteLine("Probleem 3");
 
                 int n = 5;
 
@@ -270,7 +270,7 @@
                 Console.WriteLine("Check vector solutions!");
                 CheckSolutions(a, b, x);
 
-                /*Probeem 3
+                /*Probleem 3
                 matrix a :
                 1            2            3            4            5
                 2            3            4            5            1
